@@ -1,6 +1,7 @@
 # code
 用于整理学习笔记
-##通用的js类
+## 通用的js类
+```
 var conf = {
     serverHost : ''
 };
@@ -82,3 +83,4 @@ var _mm = {
 };
 
 module.exports = _mm;
+```
